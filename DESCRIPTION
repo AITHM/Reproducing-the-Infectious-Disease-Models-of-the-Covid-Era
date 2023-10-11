@@ -1,0 +1,10 @@
+Package: test_R_script
+Title: test R script
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Alec"))
+Description: test R script
+Imports:
+    car,
+    questionr, 
+	xtable
