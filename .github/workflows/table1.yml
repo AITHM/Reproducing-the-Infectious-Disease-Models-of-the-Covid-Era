@@ -1,4 +1,4 @@
-name: Logistic regression
+name: Table1
 
 on:
   workflow_dispatch 
