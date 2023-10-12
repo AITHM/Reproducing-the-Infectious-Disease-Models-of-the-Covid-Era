@@ -9,4 +9,6 @@ For Logistic regression run logistic.R
 
 For ordinal regression run ordinal.R
 
-For Table 1 run create_tables.R 
+For Table 1 run create_table1.R 
+
+For Table 2 run create_table2.R 
